@@ -8,4 +8,4 @@ For YouTube Ground And Pound Gaming How To content.
 
 #3 Create an Empty Object and add the VACTutorial.cs to it
 
-This tutorial covers both SteamUser.GetAuthSessionTicket then SteamUser.BeginAuthSession and the resulting callback.
+This tutorial covers SteamUser.GetAuthSessionTicket then SteamUser.BeginAuthSession and the resulting callback.
